@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I could go a year without social media, just hand me literature books.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <p align="left"> <a href="https://medium.com/coinmonks/erc-20-tokens-what-it-means-for-developers-and-crypto-users-42c188600ebd" title="ERC- 20 TOKENS – What It Means for Developers and Crypto Users.
 " img src="https://miro.medium.com/max/700/1*iiTJ5STWoqD-3v7s0B7Dog@2x.jpeg"></a> </p>
@@ -43,8 +43,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dameeolawuyi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dameeolawuyi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dameeolawuyi&show_icons=true&locale=en&layout=compact" alt="dameeolawuyi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dameeolawuyi&show_icons=true&locale=en" alt="dameeolawuyi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dameeolawuyi&" alt="dameeolawuyi" /></p>
