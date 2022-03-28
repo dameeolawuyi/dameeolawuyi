@@ -1,7 +1,8 @@
 <a href ></a>
 
-<h1 align="center">
+<h1 align="center"><a href="https://readme-typing-svg.herokuapp.com/demo/">
     <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7B4EF&width=700&lines=Hiiya%2C+It's+DAMEE;A+warm+welcome+to+my+github+space!)](https://git.io/typing-svg)">
+    </a>
 </h1>
 <h3 align="center">Transitioning into Tech from a Non-Stem Background</h3>
 <img ="right" alt="coding" width="400" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
