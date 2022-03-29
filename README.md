@@ -3,7 +3,7 @@
 </a>
 </h1>
 <h3 align="center">Transitioning into tech from a Non-Stem background</h3>
-<img ="center" alt="coding" width="900" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
+<img align ="center" alt="coding" width="500" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dameeolawuyi&label=Profile%20views&color=0e75b6&style=flat" alt="dameeolawuyi" /> </p>
 
