@@ -22,8 +22,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li><p align="left"> <a href="https://medium.com/coinmonks/erc-20-tokens-what-it-means-for-developers-and-crypto-users-42c188600ebd" title="ERC- 20 TOKENS – What It Means for Developers and Crypto Users." img src="https://miro.medium.com/max/700/1*iiTJ5STWoqD-3v7s0B7Dog@2x.jpeg"></a> </p>
-</li>
+<p align="left"> <a href="https://medium.com/coinmonks/erc-20-tokens-what-it-means-for-developers-and-crypto-users-42c188600ebd" title="ERC- 20 TOKENS – What It Means for Developers and Crypto Users." img src="https://miro.medium.com/max/700/1*iiTJ5STWoqD-3v7s0B7Dog@2x.jpeg"></a> </p>
+
 <p align="left" a href="https://medium.com/coinmonks/what-the-heck-is-values-types-in-solidity-and-why-should-you-care-6ea676441e70" title="What The Heck is Value Types In Solidity And Why Should You Care?" img src="https://miro.medium.com/max/700/1*Mh-BL4JI_9aqYFUvCympWQ@2x.jpeg"></p>
 <!-- BLOG-POST-LIST:END -->
 
