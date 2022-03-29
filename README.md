@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **solidity projects**
 
-- 🌱 I’m currently learning **solidity, javascript.**
+- 🌱 I’m currently exploring ** web 3.**
 
 - 📝 I regularly write articles on [https://medium.com/@dameeolawuyi](https://medium.com/@dameeolawuyi)
 
 - 📫 How to reach me **dameeolawuyi@gmail.com**
 
-- ⚡ Fun fact **I could go a year without social media, just hand me literature books.**
+- ⚡ Fun fact **I enjoy taking and editing pictures of the sky.**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
