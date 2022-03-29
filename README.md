@@ -1,9 +1,18 @@
 <h1 align="center"> <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7B4EF&width=700&lines=Hiiya%2C+It's+DAMEE;A+warm+welcome+to+my+github+space!">
 </a>
+    
+    <style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+
 </h1>
 <h3 align="center">Transitioning into tech from a Non-Stem background</h3>
-<center>  <img alt="coding" width="500" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif"> </center>
+<center>  <img  class= "centerImage" alt="coding" width="500" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif"> </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dameeolawuyi&label=Profile%20views&color=0e75b6&style=flat" alt="dameeolawuyi" /> </p>
 
