@@ -8,7 +8,6 @@
  text-align:center;
  display:block;
 }
-</style>
 
 </h1>
 <h3 align="center">Transitioning into tech from a Non-Stem background</h3>
@@ -18,6 +17,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/darrmchi" target="blank"><img src="https://img.shields.io/twitter/follow/darrmchi?logo=twitter&style=for-the-badge" alt="darrmchi" /></a> </p>
+
+    
+</style>
 
 - 🔭 I’m currently working on **solidity projects**
 
