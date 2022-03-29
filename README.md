@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dameeolawuyi&label=Profile%20views&color=0e75b6&style=flat" alt="dameeolawuyi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dameeolawuyi" alt="dameeolawuyi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/darrmchi" target="blank"><img src="https://img.shields.io/twitter/follow/darrmchi?logo=twitter&style=for-the-badge" alt="darrmchi" /></a> </p>
 
@@ -23,8 +22,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-<p align="left"> <a href="https://medium.com/coinmonks/erc-20-tokens-what-it-means-for-developers-and-crypto-users-42c188600ebd" title="ERC- 20 TOKENS – What It Means for Developers and Crypto Users." img src="https://miro.medium.com/max/700/1*iiTJ5STWoqD-3v7s0B7Dog@2x.jpeg"></a> </p>
-
+<li><p align="left"> <a href="https://medium.com/coinmonks/erc-20-tokens-what-it-means-for-developers-and-crypto-users-42c188600ebd" title="ERC- 20 TOKENS – What It Means for Developers and Crypto Users." img src="https://miro.medium.com/max/700/1*iiTJ5STWoqD-3v7s0B7Dog@2x.jpeg"></a> </p>
+</li>
 <p align="left" a href="https://medium.com/coinmonks/what-the-heck-is-values-types-in-solidity-and-why-should-you-care-6ea676441e70" title="What The Heck is Value Types In Solidity And Why Should You Care?" img src="https://miro.medium.com/max/700/1*Mh-BL4JI_9aqYFUvCympWQ@2x.jpeg"></p>
 <!-- BLOG-POST-LIST:END -->
 
