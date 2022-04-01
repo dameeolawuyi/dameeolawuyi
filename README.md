@@ -4,7 +4,7 @@
     
 
 </h1>
-<h3 align="center">Transitioning into tech from a Non-Stem background</h3>
+<h3 align="center">Transitioning into tech from a Non-Stem Background</h3>
 <center>  <img  iamge-align= "center" alt="coding" width="100%" src= "https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif"> </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dameeolawuyi&label=Profile%20views&color=0e75b6&style=flat" alt="dameeolawuyi" /> </p>
@@ -13,9 +13,9 @@
 <p align="left"> <a href="https://twitter.com/darrmchi" target="blank"><img src="https://img.shields.io/twitter/follow/darrmchi?logo=twitter&style=for-the-badge" alt="darrmchi" /></a> </p>
 
     
-</style>
 
-- 🔭 I’m currently working on **solidity projects**
+
+- 🔭 I’m currently working on **solidity projects and my portfolio website**
 
 - 🌱 I’m currently exploring ** web 3.**
 
