@@ -1,6 +1,6 @@
-Centralized documentation for computational Bayesian workflow
+#Centralized documentation for computational Bayesian workflow
 
-#About ArviZ
+##About ArviZ
 
 
 ArviZ is an open-source library dedicated to building tools for Exploratory Analysis of Bayesian Models. Statisticians and data analysts across both academic and industry, across programming languages and across probabilistic programming frameworks trust ArviZ to assist them to perform statistical workflows. They study a wide range of problems, from the effectiveness of cancer treatments to SpaceX rocket supply chains and even user behaviour on the internet.
@@ -10,7 +10,7 @@ To aid with Bayesian modeling analysis ArviZ provides both numerical and visual 
 As of now, ArviZ has Julia and Python interfaces, and we are working on R compatibility as well. 
 At this writing, ArviZ supports at least nine Probabilistic Programming Languages (PPLs), including all the major PPLs like Stan, PyMC, and Turing.
 
-Contact
+*Contact*
 For any inquiry about Season of Docs at ArviZ, contact us at gitter.
 
 ##Project motivation
